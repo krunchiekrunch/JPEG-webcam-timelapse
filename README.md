@@ -3,8 +3,9 @@
 ## Instructions
 
 1. Download the main.py
-2. Run `python main.py` in the terminal
-3. Done
+2. Run `pip install requests imageio` to install the required modules
+3. Run `python main.py` in the terminal
+4. Done
 
 
 The script will create 2 folder, images and gifs
