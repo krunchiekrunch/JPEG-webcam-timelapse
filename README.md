@@ -21,4 +21,5 @@ By default, a image is downloaded every minute, a gif is created every 60 image 
 ### Need help?
 
 Dm me on discord for help (krunchiekrunch._.)
+
 <@1166013268008120340>
