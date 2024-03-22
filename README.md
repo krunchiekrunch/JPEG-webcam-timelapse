@@ -16,7 +16,7 @@ After that, it will delete the images used for the gif
 
 # Note
 
-By default, a image is downloaded every minute, a gif is created every 60 image downloaded (1 hour), and each frame of the GIF last for 100ms (default of imageio module)
+By default, a image is downloaded every minute, a gif is created every 60 image downloaded (1 hour), and each frame of the GIF last for 1ms
 
 ### Need help?
 
