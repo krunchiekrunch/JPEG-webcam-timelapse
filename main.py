@@ -36,7 +36,7 @@ def main():
         os.makedirs(gif_folder)
 
     while True:
-        # Download image
+        # download image
         image_url = "https://assets4.webcam.io/w/MmqrKM/latest.jpg"
         filename = download_image(image_url, image_folder)
         if filename:
@@ -44,20 +44,20 @@ def main():
             image_files.append(filename)
             image_count += 1
 
-        # Time to create a GIF?
-        # Set line 49 to 60 for 1 GIF per hour, 240 for 1 GIF per 4 hours (Codespace max keepAlive)
+        # time to make a gif?
+        # set line 49 to 60 for 1 GIF per hour, 240 for 1 GIF per 4 hours (codespace max keepalive)
         if image_count == 60:
             gif_filename = create_gif(image_files, gif_folder)
             print(f"[{datetime.now()}] Created GIF: {gif_filename}")
 
-            # Delete images
+            # delete images
             for image_file in image_files:
                 os.remove(image_file)
                 print(f"[{datetime.now()}] Deleted image: {image_file}")
             image_files = []
             image_count = 0
 
-        # Wait 1m and take another pic
+        # wait 1m and take another pic
         time.sleep(60)
 
 if __name__ == "__main__":
