@@ -23,3 +23,6 @@ By default, a image is downloaded every minute, a gif is created every 60 image 
 Dm me on discord for help (krunchiekrunch._.)
 
 <@1166013268008120340>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
