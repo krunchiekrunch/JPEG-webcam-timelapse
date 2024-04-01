@@ -24,3 +24,11 @@ Dm me on discord for help (krunchiekrunch._.)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+# Info
+
+webcam.io (The provider of the image service have their own timelapse (here)[https://webcam.io/webcams/MmqrKM]
+
+So if you wanted a timelapse of Heathrow airport (or any webcam hosted by webcam.io) you can just go to the website, webcam.io/webcams/CAMERAID, change the `CAMERAID` for the id of the webcam, you can download it from the source!
+
+This code works for other stuff as well, it can take motion image webcam and make it into timelapses, not just limited to webcam.io
