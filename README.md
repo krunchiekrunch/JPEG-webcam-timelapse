@@ -8,7 +8,7 @@
 
 The script will create 2 folder, images and gifs
 
-The script will grab a image from [here](https://assets4.webcam.io/w/MmqrKM/latest.jpg) every minute (Customisable on line 40)
+The script will grab a image from [here](https://assets4.webcam.io/w/MmqrKM/latest_hd.jpg) every minute (Customisable on line 40)
 
 It will make a gif from the images every 60 minute (Customisable on line 49)
 
