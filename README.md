@@ -1,4 +1,4 @@
-# AirLive-LHR-Timelapse-PY
+# JPEG webcam timelapse maker
 
 ## Instructions
 
@@ -8,11 +8,11 @@
 
 The script will create 2 folder, images and gifs
 
-The script will grab a image from [here](https://assets4.webcam.io/w/MmqrKM/latest.jpg) every minute
+The script will grab a image from [here](https://assets4.webcam.io/w/MmqrKM/latest.jpg) every minute (Customisable on line 40)
 
 It will make a gif from the images every 60 minute (Customisable on line 49)
 
-Each frame of the GIF last for 1ms
+Each frame of the GIF last for 1ms (10fps)
 
 After that, it will delete the images used for the gif
 
@@ -21,9 +21,6 @@ After that, it will delete the images used for the gif
 Dm me on discord for help (krunchiekrunch._.)
 
 <@1166013268008120340>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 # Info
 
