@@ -12,7 +12,7 @@ The script will grab a image from [here](https://assets4.webcam.io/w/MmqrKM/late
 
 It will make a gif from the images every 60 minute (Customisable on line 49)
 
-Each frame of the GIF last for 1ms (? fps)
+Each frame of the GIF last for 1ms (I'm pretty sure it's 1ms, or whatever the default value of imageio is)
 
 After that, it will delete the images used for the gif
 
