@@ -2,9 +2,12 @@
 
 ## Instructions
 
-1. Download the main.py
-2. Run `pip install requests imageio` to install the required modules
-3. Run `python main.py` in the terminal
+```
+git clone https://github.com/RadioactivePotato/JPEG-webcam-timelapse.git
+cd JPEG-webcam-timelapse
+pip install requests imageio
+python main.py
+```
 
 The script will create 2 folder, images and gifs
 
