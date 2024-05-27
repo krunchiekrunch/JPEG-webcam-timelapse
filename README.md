@@ -18,6 +18,4 @@ After that, it will delete the images used for the gif
 
 ### Need help?
 
-Feel free to dm me on discord for help (krunchiekrunch._.)
-
-<@1166013268008120340>
+Create an issue [here](https://github.com/RadioactivePotato/JPEG-webcam-timelapse/issues)
