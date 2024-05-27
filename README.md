@@ -19,6 +19,8 @@ Each frame of the GIF last for 1ms (I'm pretty sure it's 1ms, or whatever the de
 
 After that, it will delete the images used for the gif
 
+[Here is a demo](https://raw.githubusercontent.com/RadioactivePotato/JPEG-webcam-timelapse/main/example.gif)
+
 ### Need help?
 
 Create an issue [here](https://github.com/RadioactivePotato/JPEG-webcam-timelapse/issues)
