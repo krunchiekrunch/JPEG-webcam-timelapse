@@ -45,7 +45,7 @@ def main():
             image_count += 1
 
         # time to make a gif?
-        # set line 49 to 60 for 1 GIF per hour, 240 for 1 GIF per 4 hours (codespace max keepalive)
+        # set line 49 to 60 for 1 GIF per hour, 240 for 1 GIF per 4 hours
         if image_count == 60:
             gif_filename = create_gif(image_files, gif_folder)
             print(f"[{datetime.now()}] Created GIF: {gif_filename}")
