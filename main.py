@@ -38,6 +38,8 @@ def main():
     while True:
         # download image
         image_url = "https://webcama1.watching-grass-grow.com/current.jpg"
+        # heathrow airport webcam 
+        # image_url = "https://assets4.webcam.io/w/MmqrKM/latest_hd.jpg"
         filename = download_image(image_url, image_folder)
         if filename:
             print(f"[{datetime.now()}] Downloaded image: {filename}")
