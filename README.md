@@ -3,7 +3,7 @@
 ## Instructions
 
 ```
-git clone https://github.com/RadioactivePotato/JPEG-webcam-timelapse.git
+git clone https://github.com/krunchiekrunch/JPEG-webcam-timelapse.git
 cd JPEG-webcam-timelapse
 pip install requests imageio
 python main.py
@@ -20,7 +20,3 @@ Each frame of the GIF last for 1ms (I'm pretty sure it's 1ms, or whatever the de
 After that, it will delete the images used for the gif
 
 [Here is a demo](https://www.youtube.com/watch?v=svmZi2Jn8d8)
-
-### Need help?
-
-Create an issue [here](https://github.com/RadioactivePotato/JPEG-webcam-timelapse/issues)
